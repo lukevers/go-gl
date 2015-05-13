@@ -5,8 +5,8 @@
 package gltext
 
 import (
-	"code.google.com/p/freetype-go/freetype"
-	"code.google.com/p/freetype-go/freetype/truetype"
+	"github.com/lukevers/freetype-go/freetype"
+	"github.com/lukevers/freetype-go/freetype/truetype"
 	"github.com/lukevers/go-gl/glh"
 	"image"
 	"io"
