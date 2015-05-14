@@ -20,4 +20,4 @@ You can read the GPLv2 (https://code.google.com/p/freetype-go/source/browse/lice
 and FTL (https://code.google.com/p/freetype-go/source/browse/licenses/ftl.txt)
 licenses for more information about the requirements.
 */
-package gltext
+package text
